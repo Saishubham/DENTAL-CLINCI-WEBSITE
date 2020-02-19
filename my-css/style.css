@@ -1,0 +1,371 @@
+header{
+	}
+.top-strip{
+	height:70px;
+	background-color:#05d458;
+	}
+.top-box{
+	padding-top:10px;
+	color:#FFFFFF;
+	
+}
+.top-email-box{
+	color:#FFFFFF;
+	}
+.top-box span: hover{
+color:#F8BCE5;
+	}
+.top-call-box{
+	
+	color:#FDFDFD;
+	padding-left:10px;
+}
+.top-social-icons{
+	
+	float:right;
+	padding-right:20px;
+	
+}
+.top-social-icons a:hover{
+	opacity:0.9;
+}
+/*.no-gutter{
+	padding:0;
+}------------------------- To delete inner gutter space -------- */
+/*.my-nav{
+	margin-top:70px;
+}
+*/
+.logo{
+width:100%;}
+.my_nav{
+	background-color:#FFFFFF;
+	
+	}
+.navbar{
+	margin-bottom:0;
+}
+.navbar-brand{
+	height:auto;
+	padding:0 15px;
+}
+.mybutton{
+	padding-right:150px !important;
+	}
+.my-nav ul{
+	margin-top:5px;
+}
+.banner img{
+	width:100%;
+}
+.content{
+	padding:25px 0;
+	background-color:#ffffff;
+}
+.content h1{
+	color:#127BB8;
+}
+.content p{
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size:16px;
+	line-height:28px;
+}
+.content h3{
+}
+.content button{
+	width:150px;
+	margin-bottom:20px;
+}
+.service{
+	    padding: 30px 0 80px 0;
+		background-image:url(../images/dental-back.jpg);
+    text-align: center;
+    border-radius: 20px;
+	padding-bottom: 0px;
+}
+.service hr{
+margin-bottom:80px;
+}
+.service img{
+	    margin-top: 22px;
+    margin-left: -44px;
+    position: absolute;
+}
+.s-block-bg{
+	    background-color: #ffffff;
+    padding: 30px 21px;
+    border-radius: 5px;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    border: 1px solid #8ed6da;
+	margin: 60px 9px;
+}
+.s-block-bg h2{
+	color:#469aa5;
+}
+.s-block-bg p{
+	padding:0 5px;
+	font-size:16px;
+	line-height:26px;
+	
+}
+.d-block-bg {
+	color:#FFFFFF;
+	background-image:url(../images/picsss.jpg);
+    padding: 30px 21px;
+    height: -webkit-fill-available;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    border: 10px solid #8ed6da;
+    margin: 60px 9px;
+	border-radius:20px;
+}
+.d-block-bg h2{
+	color:#469aa5;
+}
+.d-block-bg p{
+	padding:0 5px;
+	font-size:16px;
+	line-height:26px;
+	
+}
+.arrow{
+	list-style:none;
+	
+	}
+.cases{
+	    clear: both;
+    padding: 30px 5px 80px 0;
+    text-align: center;
+    background-color: #5f2c70;
+	color:#FFFFFF;
+
+}
+.cases hr{
+	background-color:#29563B;
+
+}
+.cases-p img{
+	    margin-bottom: -46px;
+}
+ .contact{
+	 padding:30px 0 80px 0;
+	 text-align:center;
+ 
+ }
+ details{
+	 padding:30px 0 80px 0;
+	 position:absolute;
+ 
+ }
+ /*-------teatimonialss--------------*/
+ #testimonial{
+   padding:34px 0px;
+
+}
+
+#testimonial .fa.fa-quote-right{
+	color:#5db4c0;
+	font-size:30px;
+}
+
+#testimonial  p{
+    font-family: 'Raleway', sans-serif;
+    margin-bottom:20px;
+    margin-top:20px;
+}
+
+#testimonial img{
+    width: 150px; 
+    height: 150px; 
+    margin: 0 auto;
+    border-radius: 50%;
+    border: 1px solid #5db4c0; 
+}
+
+#testimonial .carousel-indicators  li {
+    background-color: #5db4c0;
+    height: 13px;
+    width: 13px;
+    margin: 5px;
+}
+
+#testimonial .carousel-indicators li.active {
+    background-color: #888383;
+}
+
+#testimonial .carousel-indicators {
+    bottom: -50px;
+}
+/*-----------------footer-------------------------*/
+.footer_bg
+{ 
+    background-color:#23408e;
+    margin-top:0px;
+    padding-top: 20px;
+    font-size: 15px;
+    color: #fff;
+    padding-bottom: 150px;
+	}
+	.footer-bg h3{
+		text-align:left;
+				}
+				.footer-bg ul{
+					text-align:start;
+					
+					}
+				
+.footer1 ul{
+	 list-style: none;
+    margin-top: 10px;
+    line-height: 2;
+    text-align: left;
+    padding-left: 0px;
+   	font-size:14px;
+	font-weight:100;
+
+}
+
+
+.footer2 ul{
+  list-style: none;
+  margin-top: 10px;
+  line-height: 2;
+    text-align: left;
+    font-size:14px;
+	font-weight:100;
+				}				
+				
+.footer3 ul{
+	list-style: none;
+    margin-top: 10px;
+    line-height: 2;
+    text-align: left;
+ 	font-size:14px;
+	font-weight:100;
+	
+				}
+
+	.footer4 ul{
+	list-style: none;
+    margin-top: 10px;
+    line-height: 2;
+    text-align: left;
+  	font-size:16px;
+	font-weight:100;
+	
+				}			
+	.footer4 img{
+		position:absolute;
+		margin-top:60px;
+		backface-visibility:visible;
+		background-color:#6bf8ff;
+		
+		}
+	
+	.footer-bg a{
+		color:#FDFDFD;
+		
+		}
+		.company-name {
+    
+	font-size: 15px;
+    font-weight: 900;
+    padding-top: 12px;
+    color: #fff;
+	background-color:#44b522ed
+		}
+		/*---------------------------------*/
+		.footer {
+    background-color:#223d86;
+    margin-top:0px;
+    padding-top: 20px;
+    font-size: 15px;
+    color: #fff;
+		}
+		.footer ul {
+    list-style: none;
+    margin-top: 10px;
+    line-height: 2;
+    text-align: left;
+    padding-left: 0px;
+}
+.footer a {
+    color: #FFFFFF !important;}
+	/*--------------------Contact us page---------------------------*/
+.contact-bann img{
+		width:100%;
+		}
+.contact{
+		
+			
+			}
+.con-cont {
+    padding: 40px 0px;
+	background-image:url(../images/con-back.jpg);
+}
+.content-con {
+    width: 100%;
+    height: 40px;
+    background-color: #00ab17;
+    border-radius: 5px;
+    text-align: left;
+    padding: 7px 20px;
+    font-size: 20px;
+    font-weight: 200;
+    color: #FDFFE8;
+    letter-spacing: 1px;
+}
+.add-block p {
+    font-size: 18px;
+    line-height: 35px;
+    font-weight: 300;
+    padding: 0 20px;
+}
+.name_input {
+          width: 70%;
+    height: 25px;
+    padding-left: 5px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    background-color: #ffffff;
+}
+.content-form {
+    width: 100%;
+    height: 40px;
+    background-color: #00ab17;
+    border-radius: 5px;
+    text-align: left;
+    padding: 7px 20px;
+    font-size: 20px;
+    font-weight: 200;
+    color: #FDFFE8;
+    letter-spacing: 1px;
+}
+.form-cont {
+    width: 100%;
+    height: auto;
+    margin: 0;
+}
+.form_head {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    line-height: 45px;
+    color:#000000;
+}
+.doc_cont{
+	border:2px solid #14B7E0 ;
+	
+	}
+
+	/*-----------------------------Services----------------------------------------------*/
+.margin{
+	margin-top:10px;
+		
+		
+		}
+		.contents{
+			text-align: justify;
+    font-size: 20px;
+    font-family: sans-serif;
+    line-height: 40px;
+    padding: 0px 0px;
+			}
